@@ -9,5 +9,8 @@ public class OperatorOuestion2 {
         if(z>y && z<x){
             System.out.println("Java");
         }
+        if((y+200)<x && (y+150)<z){
+            System.out.println("Hello Java");
+        }
     }
 }
